@@ -1,5 +1,5 @@
 # Text-Summarization
-Text Summarization Algorithm using PyTorch (Codes would be uploaded after refining)
+Text Summarization Techniques using Python
 <img src ="https://github.com/Jeongah-Shin/Text-Summarization/blob/images/AI_final_Presentation_NLP-01.png"/>
 <img src ="https://github.com/Jeongah-Shin/Text-Summarization/blob/images/AI_final_Presentation_NLP-02.png"/>
 <img src ="https://github.com/Jeongah-Shin/Text-Summarization/blob/images/AI_final_Presentation_NLP-03.png"/>
